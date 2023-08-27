@@ -1,7 +1,7 @@
-#About Project
+# About Project
 This project is about restaurant database using SQL query.
 
-#Objective
+# Objective
 1. To keep a record of customer information.
 2. Find the list of top spenders. 
 
