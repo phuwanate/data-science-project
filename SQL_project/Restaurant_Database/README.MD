@@ -1,5 +1,5 @@
 # About Project
-This project is about restaurant database using SQL query.
+This project is about Thai restaurant database, designed to revolutionize the way you manage customer information, track expenses, and gain valuable insights into your restaurant's performance by using SQL QUERY. 
 
 # Objective
 1. To keep a record of customers information.
