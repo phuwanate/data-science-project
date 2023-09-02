@@ -5,5 +5,5 @@ Welcome to my data science project repository. This repository covers various as
 
 ## Table of Contents
 1. Machine Learning project
-  - House price India prediction
+1.1 House price India prediction
 
