@@ -5,7 +5,7 @@ Welcome to my data science project repository. This repository covers various as
 
 ## Table of Contents
 1. Machine Learning
-    - <a href="https://github.com/phuwanate/data-science-project/blob/main/Python_project/README.MD#:~:text=Python_project-,API_project,-OOP_project">House price India prediction</a>
+    - <a href="https://github.com/phuwanate/data-science-project/blob/main/Python_project/README.MD#:~:text=Python_project-,API_project,-OOP_project" >House price India prediction</a>
 2. Python for data science
     - API project
     - OOP project
