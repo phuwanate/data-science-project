@@ -15,7 +15,7 @@ Welcome to my data science project repository. This repository covers various as
     - <a href="https://github.com/phuwanate/data-science-project/tree/main/R_project/Rock-paper-scissors">rock paper scissors game</a>
     - <a href="https://github.com/phuwanate/data-science-project/tree/main/R_project/chatbot-for-pizza-shop">chatbot for pizza shop</a>
 4. SQL project
-    - restaurant database
+    - <a href="https://github.com/phuwanate/data-science-project/tree/main/SQL_project/Restaurant_Database">restaurant database</a>
 
 5. Final project
     - <a href="https://datalore.jetbrains.com/report/static/BTxD8hPDBtK14s9dpfCtIL/rgLuBSZK6P6shj90cicZut" target="_blank" >Analyzing Sales Data by Using Python</a>
