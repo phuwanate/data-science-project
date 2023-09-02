@@ -12,7 +12,7 @@ Welcome to my data science project repository. This repository covers various as
     - <a href="https://github.com/phuwanate/data-science-project/tree/main/Python_project/rock-paper-scissors">rock paper scissors game</a>
     - <a href="https://github.com/phuwanate/data-science-project/tree/main/Python_project/web_scraping_project"> web scraping project</a>
 3. R for data science
-    - rock paper scissors game
+    - <a href="https://github.com/phuwanate/data-science-project/tree/main/R_project/Rock-paper-scissors">rock paper scissors game</a>
     - chatbot for pizza shop
 4. SQL project
     - restaurant database
