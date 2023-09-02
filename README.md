@@ -9,7 +9,7 @@ Welcome to my data science project repository. This repository covers various as
 2. Python for data science
     - <a href="https://github.com/phuwanate/data-science-project/tree/main/Python_project/API_project">API project</a>
     - <a href="https://github.com/phuwanate/data-science-project/tree/main/Python_project/OOP_project">OOP project</a>
-    - rock paper scissors game
+    - <a href="https://github.com/phuwanate/data-science-project/tree/main/Python_project/rock-paper-scissors">rock paper scissors game</a>
     - web scraping project
 3. R for data science
     - rock paper scissors game
