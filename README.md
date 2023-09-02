@@ -8,7 +8,7 @@ Welcome to my data science project repository. This repository covers various as
     - <a href="https://github.com/phuwanate/data-science-project/tree/main/Machine_Learning_project" >House price India prediction</a>
 2. Python for data science
     - <a href="https://github.com/phuwanate/data-science-project/tree/main/Python_project/API_project">API project</a>
-    - OOP project
+    - <a href="https://github.com/phuwanate/data-science-project/tree/main/Python_project/OOP_project">OOP project</a>
     - rock paper scissors game
     - web scraping project
 3. R for data science
