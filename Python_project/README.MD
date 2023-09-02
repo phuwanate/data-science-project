@@ -17,3 +17,5 @@ Welcome to my data science project repository. This repository covers various as
 4. SQL project
     - restaurant database
 
+5. Final project
+    - <a url="https://datalore.jetbrains.com/report/static/BTxD8hPDBtK14s9dpfCtIL/rgLuBSZK6P6shj90cicZut">Analyzing Sales Data by Using Python</a>
